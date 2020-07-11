@@ -1,2 +1,3 @@
-# Ola-Mundo
- primeiro repositorio
+# Olá, Mundo!
+ Primeiro repositório teste.
+ Serve para guardar alterações.
